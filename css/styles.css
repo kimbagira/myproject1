@@ -66,3 +66,25 @@
   color:white;
   padding:40px;
 }
+.six3{
+  text-align: center; 
+}
+.six4{
+  text-align: center; 
+  padding:30px;
+}
+#name1{
+  background:transparent;
+  width: 400px;
+  height: 30px;
+}
+::placeholder{
+  color:white;
+  display:flex;
+  align-items:flex-start;
+}
+#name3{
+  background: transparent;
+width: 750px;
+height: 190px;
+}
