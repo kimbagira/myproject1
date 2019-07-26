@@ -1,20 +1,68 @@
 
-#one{
+.one{
   background-image: url("https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/h_img.jpg?raw=true");
-  margin-right: 30px;
-  margin-left: 30px;
-  margintop: 30px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  padding:100px;
 }
 
-.one{
-  text-align: center;
-  padding:40px
-}
 .one1{
   text-align: center;
-  padding:40px;
-  color:white;
+  padding:220px;
 }
 .one2{
   text-align: center;
+  color:white;
+  margin-top:-9%;
+}
+.one3{
+  text-align: center;
+  padding:200px;
+}
+.two1{
+  text-align: center;
+  padding:50px;
+}
+.three{
+  background-image:url("https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/s_image.jpg"); 
+}
+.three1{
+  text-align: center;
+  padding:149px;
+  color:white;
+}
+.four1{
+  text-align: center;
+  padding: 50px;
+}
+.four2{
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width:75%;
+}
+.five1{
+  text-align: center; 
+  padding:100px;
+}
+.five2{
+  text-align: center; 
+}
+.six{
+  background-image: url("file:///home/wecode/Documents/myproject1/images/c_image.jpg");
+}
+.six1{
+  text-align: center; 
+}
+.six2{
+  text-align: center; 
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.one4{
+  text-align: center;
+  color:white;
+  padding:40px;
 }
