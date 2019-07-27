@@ -1,12 +1,13 @@
 
 .one{
   background-image: url("https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/h_img.jpg?raw=true");
- 
+  background-repeat: no-repeat;
+  background-size: contain;
+  padding:100px;
 }
-
 .one1{
   text-align: center;
-  padding:220px;
+  padding:225px;
 }
 .one2{
   text-align: center;
@@ -37,13 +38,6 @@
 .four1{
   text-align: center;
   padding: 50px;
-}
-.four2{
-  text-align: center;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  width:75%;
 }
 .five1{
   text-align: center; 
@@ -98,4 +92,13 @@
 .eight{
   text-align: center;
   padding:10px;
+}
+#put1,#push1,#pull1{
+  display: none;
+}
+.row{
+text-align: center;
+  /*display: flex;*/
+  /* flex-wrap: wrap; */
+  /* justify-content: space-between; */
 }
