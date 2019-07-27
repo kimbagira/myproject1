@@ -1,27 +1,37 @@
 
+@import url('https://fonts.googleapis.com/css?family=PT+Sans&display=swap');
+body{
+  font-family: 'PT Sans', sans-serif;
+}
 .one{
   background-image: url("https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/h_img.jpg?raw=true");
-  background-repeat: no-repeat;
+  /*background-repeat: no-repeat;
   background-size: contain;
-  padding:100px;
+  /* padding:100px; */
+  text-align: center;
 }
 .one1{
   text-align: center;
-  padding:225px;
+  margin-top: 18%;
+  margin-left: 4%;
 }
 .one2{
   text-align: center;
   color:white;
-  margin-top:-9%;
+  margin-top:4%; 
 }
 .one3{
   text-align: center;
-  padding:200px;
+  color:white;
+  margin-top: 3%;
 }
 .one4{
   text-align: center;
   color:white;
-  padding:30px;
+}
+.one5{
+  text-align: center;
+  margin-top: 14%;
 }
 .two1{
   text-align: center;
@@ -64,13 +74,15 @@
 }
 #name1{
   background:transparent;
-  width: 550px;
+  width:28%;
   height: 30px;
+  margin-right:100px;
 }
 #name2{
   background:transparent;
-  width: 550px;
+  width:28%;
   height: 30px;
+  margin-right:100px;
 }
 ::placeholder{
   color:white;
