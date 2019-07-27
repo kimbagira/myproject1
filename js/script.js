@@ -33,15 +33,69 @@ $(document).ready(function() {
     if (name == "" || email == "" || message == "") {
       alert("you first fill the requirements, please!");
     } else {
-      alert(
-        name +
-          ", we have received your message. thank you for reaching out to us!"
-      );
+      alert(name + ", we have received your message. thank you for reaching out to us!");
     }
   });
-$
+$(".imgOne").mouseover(function(){
+ $("#get1").show();
+});
+$(".imgone").mouseleave(function(){
+ $("#get1").hide();
+});
 
 
 
+$(".imgtwo").mouseover(function(){
+  $("#give1").show();
+  });
+  $(".imgtwo").mouseleave(function(){
+    $("#give1").hide();
+  });
 
+
+
+$(".imgthree").mouseover(function(){
+  $("#gain1").show();
+});
+  $(".imgthree").mouseleave(function(){
+    $("#gain1").hide();
+  });
+
+
+$(".imgfour").mouseover(function(){
+  $("#won1").show();
+   });
+  $(".imgfour").mouseleave(function(){
+    $("#won1").hide();
+  });
+
+$(".imgfive").mouseover(function(){
+  $("#will1").show();
+ });
+  $(".imgfive").mouseleave(function(){
+    $("#will1").hide();
+  });
+
+
+$(".imgsix").mouseover(function(){
+  $("#work1").show();
+  });
+  $(".imgsix").mouseleave(function(){
+    $("#work1").hide();
+});
+
+
+$(".imgseven").mouseover(function(){
+ $("#want1").show();
+ });
+ $(".imgseven").mouseleave(function(){
+  $("#want1").hide();
+  });
+
+ $(".imgeight").mouseover(function(){
+   $("#wish1").show();
+  });
+   $(".imgeight").mouseleave(function(){
+     $("#wish1").hide();
+   });
 });

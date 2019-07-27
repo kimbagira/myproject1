@@ -53,8 +53,9 @@ body{
   text-align: center; 
   padding:100px;
 }
-.five2{
+.five1a{
   text-align: center; 
+  margin-bottom: 50px;
 }
 .six{
   background-image: url("https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/c_image.jpg");
@@ -116,7 +117,124 @@ background: transparent;
 }
 .row{
 text-align: center;
-  /*display: flex;*/
-  /* flex-wrap: wrap; */
-  /* justify-content: space-between; */
+}
+
+
+.imgOne{
+  background-image: url('../images/work4.jpg');
+  background-repeat: no-repeat;
+  height: 150px;
+}
+.imgOne:hover{
+    background-color:white;
+    opacity:0.3 ;
+}
+#get1 {
+   display:none; 
+   color:red;
+}
+
+
+.imgtwo{
+  background-image: url('../images/work3.jpg');
+  background-repeat: no-repeat;
+  height: 150px;
+}
+.imgtwo:hover{
+  background-color:white;
+  opacity:0.3 ;
+}
+#give1 {
+  display:none; 
+  color: red;
+}
+
+.imgthree{
+  background-image: url('../images/work2.jpg');
+  background-repeat: no-repeat;
+  height: 150px;
+}
+.imgthree:hover{
+  background-color:white;
+  opacity:0.3 ;
+}
+#gain1 {
+  display:none; 
+  color: red;
+}
+
+.imgfour{
+  background-image: url('../images/work1.jpg');
+  background-repeat: no-repeat;
+  height: 150px;
+}
+.imgfour:hover{
+  background-color:white;
+  opacity:0.3 ;
+}
+#won1 {
+  display:none; 
+  color: red;
+}
+
+.imgfive{
+  background-image: url('../images/work5.jpg');
+  background-repeat: no-repeat;
+  height: 150px;
+}
+.imgfive:hover{
+  background-color:white;
+  opacity:0.3 ;
+}
+#will1 {
+  display:none; 
+  color: red;
+}
+
+
+.imgsix{
+  background-image: url('../images/work6.jpg');
+  background-repeat: no-repeat;
+  height: 150px;
+}
+.imgsix:hover{
+  background-color:white;
+  opacity:0.3 ;
+}
+#work1 {
+  display:none; 
+  color: red;
+}
+
+
+.imgseven{
+  background-image: url('../images/work7.jpg');
+  background-repeat: no-repeat;
+  height: 150px;
+}
+.imgseven:hover{
+  background-color:white;
+  opacity:0.3 ;
+}
+#want1 {
+  display:none; 
+  color: red;
+}
+
+
+.imgeight{
+  background-image: url('../images/work8.jpg');
+  background-repeat: no-repeat;
+  height: 150px;
+}
+.imgeight:hover{
+  background-color:white;
+  opacity:0.3 ;
+}
+#wish1 {
+  display:none; 
+  color:red;
+}
+.part2{
+  margin-top: 20px;
 }
