@@ -233,8 +233,10 @@ text-align: center;
 }
 #wish1 {
   display:none; 
-  color:red;
+  color: red;
 }
+
+
 .part2{
   margin-top: 20px;
 }
