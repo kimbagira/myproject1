@@ -82,6 +82,12 @@
   width: 1100px;
   height: 300px;
 }
+#mybtn{
+background: transparent;
+}
+.six4{
+  text-align: center;
+}
 .seven{
   text-align: center;
   padding:30px;

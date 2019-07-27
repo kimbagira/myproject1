@@ -25,4 +25,18 @@ $(document).ready(function() {
     $("#pull").toggle();
     $("#pull1").toggle();
   });
+
+  $("#mybtn").click(function() {
+    var name = $("#name1").val();
+    var email = $("#name2").val();
+    var message = $("#name3").val();
+    if (name == "" || email == "" || message == "") {
+      alert("you first fill the requirements, please!");
+    } else {
+      alert(
+        name +
+          ", we have received your message. thank you for reaching out to us!"
+      );
+    }
+  });
 });
