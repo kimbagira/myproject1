@@ -5,3 +5,4 @@ DELANI STUDIO
    Our approach unifies design,development and product management to create exceptional products.
    We start each project by understanding your business goals,the user's needs and the product requirementsThen we help          transalte them into effective and elegant solutions.
           
+AUTHOR
