@@ -39,7 +39,7 @@ $(document).ready(function() {
 $(".imgOne").mouseover(function(){
  $("#get1").show();
 });
-$(".imgone").mouseleave(function(){
+$(".imgOne").mouseleave(function(){
  $("#get1").hide();
 });
 
@@ -93,9 +93,9 @@ $(".imgseven").mouseover(function(){
   });
 
  $(".imgeight").mouseover(function(){
-   $("#wish1").show();
+   $("#wish2").show();
   });
    $(".imgeight").mouseleave(function(){
-     $("#wish1").hide();
+     $("#wish2").hide();
    });
 });
