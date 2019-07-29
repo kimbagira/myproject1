@@ -39,3 +39,9 @@ output examples
 LINK OF MY REPOSITORY
 
 https://kimbagira.github.io/myproject1/
+
+BUGS
+
+. no bugs
+
+TECHNOLOGIES USED
