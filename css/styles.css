@@ -5,9 +5,6 @@ body{
 }
 .one{
   background-image: url("https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/h_img.jpg?raw=true");
-  /*background-repeat: no-repeat;
-  background-size: contain;
-  /* padding:100px; */
   text-align: center;
 }
 .one1{
@@ -119,7 +116,6 @@ background: transparent;
 text-align: center;
 }
 
-
 .imgOne{
   background-image: url('../images/work4.jpg');
   background-repeat: no-repeat;
@@ -133,7 +129,6 @@ text-align: center;
    display:none; 
    color:red;
 }
-
 
 .imgtwo{
   background-image: url('../images/work3.jpg');
@@ -191,7 +186,6 @@ text-align: center;
   color: red;
 }
 
-
 .imgsix{
   background-image: url('../images/work6.jpg');
   background-repeat: no-repeat;
@@ -206,7 +200,6 @@ text-align: center;
   color: red;
 }
 
-
 .imgseven{
   background-image: url('../images/work7.jpg');
   background-repeat: no-repeat;
@@ -220,7 +213,6 @@ text-align: center;
   display:none; 
   color: red;
 }
-
 
 .imgeight{
   background-image: url('../images/work8.jpg');
