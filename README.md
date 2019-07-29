@@ -16,3 +16,22 @@ Before we sign a contract or write a line of code our team will spend the the ne
 SETUP/REQUIREMENTS
 
 you should clone to get my codes
+
+BDD
+
+Behaviour
+
+.you first go to the page
+.you read the whole page to know more about it
+.do what you are required to do
+.if necessary ,contact us
+
+input examples
+
+.name
+.email
+.your message
+
+output examples
+
+.feedback message to thank you 
