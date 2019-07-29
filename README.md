@@ -8,3 +8,15 @@ DELANI STUDIO
 AUTHOR
 by kimbagira sylvie
 
+DESCRIPTION
+   Before we sign a contract or write a line of code our team will
+            spend the the necessary time needed to understand your product
+            vision
+           </p>
+           <p>
+            The outcome of this scoping session ia proposal or high-level
+            statement of work
+           </p>
+           <p>
+            based on your requirements,we can provide acomplete offering or just
+            the pieces you need.
