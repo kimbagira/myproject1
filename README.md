@@ -53,3 +53,7 @@ SUPPORT AND CONTACT DEDAILS
 
 .number:0786558890
 .email:sylviekimbagira@gmail.com
+
+LICENSE
+
+Copyright(c) 2019 kimbagira sylvie 
