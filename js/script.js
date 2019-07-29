@@ -93,10 +93,10 @@ $(".imgseven").mouseover(function(){
   });
 
  $(".imgeight").mouseover(function(){
-   $("#wish2").show();
+   $("#wish1").show();
   });
    $(".imgeight").mouseleave(function(){
-     $("#wish2").hide();
+     $("#wish1").hide();
    });
 });
 
