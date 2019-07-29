@@ -12,3 +12,5 @@ kimbagira sylvie
 DESCRIPTION
 
 Before we sign a contract or write a line of code our team will spend the the necessary time needed to understand your product vision The outcome of this scoping session ia proposal or high-level statement of work based on your requirements,we can provide acomplete offering or just the pieces you need.
+
+Setup/instalation Requirements
