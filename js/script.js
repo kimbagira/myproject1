@@ -99,3 +99,4 @@ $(".imgseven").mouseover(function(){
      $("#wish2").hide();
    });
 });
+
